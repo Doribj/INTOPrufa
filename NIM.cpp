@@ -41,6 +41,7 @@ int main( )
 		cout << "                      3. Haetta " << endl << endl;
 		cout << "                      Veldu 1, 2 eda 3:" << endl << endl;
 		cout << "Halldor Bjarnason " << endl;
+		cout << "GUdjon Petursson " << endl;
 		cin >> val;
 		switch ( val )
 		{
